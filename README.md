@@ -34,8 +34,8 @@ mongodb_password=user1password '''
 
 ## Authors
 
-* **[Omolewa Adaramola](https://github.com/omolewadavids)**
-* [Blue Lambda Techgnologies LLC](https://www.bluelambdatechnologies.com/)
+* **[Omokaro Felix](https://github.com/wafom2)**
+* [LinkedIn](www.linkedin.com/in/felix-omokaro)
 
 ## License
 
