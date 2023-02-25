@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5845eaac-cbc9-477c-b289-76d6924affe6" name="Changes" comment="Code update" />
+    <list default="true" id="5845eaac-cbc9-477c-b289-76d6924affe6" name="Changes" comment="Readme Update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +55,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677333017829</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Readme Update">
+      <created>1677333591291</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677333591291</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -71,6 +78,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Code update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Code update" />
+    <MESSAGE value="Readme Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Readme Update" />
   </component>
 </project>

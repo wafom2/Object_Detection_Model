@@ -35,7 +35,7 @@ mongodb_password=user1password '''
 ## Authors
 
 * **[Omokaro Felix](https://github.com/wafom2)**
-* [LinkedIn](www.linkedin.com/in/felix-omokaro)
+* [LinkedIn Profile](https://linkedin.com/in/felix-omokaro)
 
 ## License
 
